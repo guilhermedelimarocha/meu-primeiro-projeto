@@ -1,3 +1,4 @@
 language: java
+os: Windows
 jdk: 
-  - oraclejdk16
+  - oraclejdk8
